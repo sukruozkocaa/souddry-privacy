@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gizlilik Politikası</title>
+</head>
+<body style="font-family: Arial, sans-serif; max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.6;">
+  <h1>Gizlilik Politikası</h1>
+
+  <p>Son güncelleme: 30 Ağustos 2026</p>
+
+  <p>
+    Bu gizlilik politikası, SoundDry uygulamasının kullanıcı gizliliğine yaklaşımını açıklamaktadır.
+  </p>
+
+  <h2>Toplanan Veriler</h2>
+  <p>
+    SoundDry, uygulamanın temel hoparlör temizleme ve ses frekansı özelliklerini kullanmanız için
+    kişisel bilgi talep etmez.
+  </p>
+
+  <p>
+    Uygulama; ad, soyad, e-posta adresi, telefon numarası veya benzeri doğrudan kimlik bilgilerini
+    kendi sunucularında toplamaz veya saklamaz.
+  </p>
+
+  <h2>Satın Alımlar</h2>
+  <p>
+    Uygulama içi satın alma işlemleri Apple App Store üzerinden gerçekleştirilir.
+    Ödeme ve faturalandırma bilgileri Apple tarafından işlenir. SoundDry bu ödeme bilgilerine erişmez.
+  </p>
+
+  <h2>Cihaz Özellikleri</h2>
+  <p>
+    Uygulama, hoparlör temizleme amacıyla cihazın ses çıkışı üzerinden belirli frekanslarda ses üretebilir.
+    Bu işlem sırasında kişisel veri toplanmaz.
+  </p>
+
+  <h2>Üçüncü Taraf Hizmetleri</h2>
+  <p>
+    Uygulamanın gelecekte analiz, hata raporlama veya benzeri üçüncü taraf hizmetleri kullanması durumunda,
+    bu gizlilik politikası güncellenecektir.
+  </p>
+
+  <h2>Çocukların Gizliliği</h2>
+  <p>
+    Uygulama çocuklardan bilerek kişisel veri toplamaz.
+  </p>
+
+  <h2>Değişiklikler</h2>
+  <p>
+    Bu gizlilik politikası zaman zaman güncellenebilir. Güncellemeler bu sayfa üzerinden yayınlanır.
+  </p>
+
+  <h2>İletişim</h2>
+  <p>
+    Gizlilik politikasıyla ilgili sorularınız için bizimle iletişime geçebilirsiniz:
+    <a href="mailto:YOUR_EMAIL@example.com">YOUR_EMAIL@example.com</a>
+  </p>
+</body>
+</html>
